@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitpsa28&label=Profile%20views&color=0e75b6&style=flat" alt="gitpsa28" /> </p>
 
-- 🔭 I’m currently working on [Wordle](https://github.com/GITPSA28/wordle)
+- 🔭 I’m currently working on [Wordle](https://github.com/GITPSA28/wordle) , [Share-List](https://github.com/GITPSA28/Share-List-React-Supabase)
 
 - 🌱 I’m currently learning **Next JS, Node JS**
 
-- 💬 Ask me about **JavaScript, CSS, React, SAP UI5, Python, Photoshop, Unity3d**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, Accessibility, SAP UI5, Python, Photoshop, Unity3d**
 
 - 📫 How to reach me **sunilaravindp@gmail.com**
 
