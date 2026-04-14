@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitpsa28&label=Profile%20views&color=0e75b6&style=flat" alt="gitpsa28" /> </p>
 
-- 🔭 I’m currently working on [Wordle](https://github.com/GITPSA28/wordle) , [Share-List](https://github.com/GITPSA28/Share-List-React-Supabase)
+- 🔭 I’m currently working on [Wordle](https://github.com/GITPSA28/wordle) , [Share-List](https://github.com/GITPSA28/Share-List)
 
 - 🌱 I’m currently learning **Next JS, Node JS**
 
